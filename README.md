@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FE
 
 This template should help get you started developing with Vue 3 in Vite.
@@ -27,3 +28,7 @@ npm run dev
 ```sh
 npm run build
 ```
+=======
+# FE_Klarifikasi_Web
+Web klarifikasi untuk membedakan gambar ular, anjing dan kucing saja.
+>>>>>>> c28a8d2db3af5fa897f2d2284211ebc6daf775d1
