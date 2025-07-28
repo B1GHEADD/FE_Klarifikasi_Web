@@ -170,7 +170,7 @@ const errorMessage = ref(null);
 const showResultPopup = ref(false); // New: Untuk mengontrol visibilitas pop-up
 
 // --- Constants ---
-const API_URL = "https://82a34c8ec55f.ngrok-free.app/predict"; // MODIFIKASI INI: SESUAIKAN DENGAN URL BACKEND FLASK ANDA
+const API_URL = "https://594f712629a8.ngrok-free.app/predict"; // MODIFIKASI INI: SESUAIKAN DENGAN URL BACKEND FLASK ANDA
 
 // --- Functions ---
 const openFileInput = () => {
